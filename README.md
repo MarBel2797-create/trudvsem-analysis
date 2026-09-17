@@ -84,3 +84,11 @@
    python trudvsem_parser.py
 3. Запустите анализ:
    python trudvsem_analysis.py
+
+## 📂 Источник данных
+
+API «Работа России»: [opendata.trudvsem.ru](https://opendata.trudvsem.ru/api/v1/vacancies)
+
+## 📄 Лицензия
+
+MIT
