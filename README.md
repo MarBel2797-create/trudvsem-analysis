@@ -90,5 +90,5 @@
 API «Работа России»: [opendata.trudvsem.ru](https://opendata.trudvsem.ru/api/v1/vacancies)
 
 ## 📄 Лицензия
-
-MIT
+Этот проект распространяется под лицензией **MIT**. Подробности в файле [LICENSE](LICENSE).
+```
